@@ -90,5 +90,4 @@ The models are evaluated using:
 ## Acknowledgments
 
 This project is part of the research conducted at the Technical University of Munich, Professorship of Photogrammetry and Remote Sensing.
-- Supervisor: Prof. Dr.-Ing. Boris Jutzi
 - Advisor: Olaf Wysocki, Dr.-Ing.
